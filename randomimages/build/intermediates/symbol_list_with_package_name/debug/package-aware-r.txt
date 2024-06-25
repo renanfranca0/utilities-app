@@ -1,0 +1,4 @@
+com.example.randomimages
+id imageView
+id title
+layout activity_random_images

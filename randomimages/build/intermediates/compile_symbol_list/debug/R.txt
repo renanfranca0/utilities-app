@@ -1,0 +1,3 @@
+int id imageView 0x0
+int id title 0x0
+int layout activity_random_images 0x0

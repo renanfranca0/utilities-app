@@ -1,0 +1,23 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.example.randomimages" >
+5
+6    <uses-sdk android:minSdkVersion="1" />
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->/Users/renanfranca/AndroidStudioProjects/UtilitiesApp/randomimages/src/main/AndroidManifest.xml:5:5-67
+8-->/Users/renanfranca/AndroidStudioProjects/UtilitiesApp/randomimages/src/main/AndroidManifest.xml:5:22-64
+9
+10    <application>
+10-->/Users/renanfranca/AndroidStudioProjects/UtilitiesApp/randomimages/src/main/AndroidManifest.xml:7:5-12:19
+11        <activity
+11-->/Users/renanfranca/AndroidStudioProjects/UtilitiesApp/randomimages/src/main/AndroidManifest.xml:8:9-11:20
+12            android:name="com.example.randomimages.RandomImagesActivity"
+12-->/Users/renanfranca/AndroidStudioProjects/UtilitiesApp/randomimages/src/main/AndroidManifest.xml:9:13-49
+13            android:exported="true" >
+13-->/Users/renanfranca/AndroidStudioProjects/UtilitiesApp/randomimages/src/main/AndroidManifest.xml:10:13-36
+14        </activity>
+15    </application>
+16
+17</manifest>

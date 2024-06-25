@@ -1,0 +1,18 @@
+com.example.calculator
+id button0
+id button1
+id button2
+id button3
+id button4
+id button5
+id button6
+id button7
+id button8
+id button9
+id buttonAdd
+id buttonDivide
+id buttonEquals
+id buttonMultiply
+id buttonSubtract
+id result
+layout activity_calculator
