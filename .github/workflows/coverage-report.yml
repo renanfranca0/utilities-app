@@ -18,6 +18,7 @@ jobs:
       - name: Build with Gradle
         run: ./gradlew koverXMLReport
       - name: Upload coverage reports
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v4.0.1
         with:
+          token: ${{ secrets.CODECOV_TOKEN }}
           files: build/reports/kover/report.xml
