@@ -36,7 +36,7 @@ kover {
                 // specify verification bound for this rule
                 bound {
                     // lower bound
-                    minValue = 50
+                    minValue = 80
 
                     // specify which units to measure coverage for
                     coverageUnits = CoverageUnit.LINE
